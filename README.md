@@ -16,8 +16,8 @@ She is interested in working one day at NASA, so she decided to search much info
 
 ## Description of the source of data
 Selected some articles and images of NASA web pages to collect the information.
-Link 1:
-Link 2: 
+Link 1: https://redplanetscience.com/
+Link 2: https://spaceimages-mars.com/
 
 ## Data exploration
 
